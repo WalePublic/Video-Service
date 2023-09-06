@@ -1,0 +1,4 @@
+bindings:
+- members:
+  - user:umdzouk@gmail.com
+  role: roles/artifactregistry.repoOwner
